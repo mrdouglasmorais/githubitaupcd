@@ -1,1 +1,1 @@
-let turma06
+let = turma06
